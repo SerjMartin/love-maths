@@ -1,4 +1,4 @@
-# Love Math
+# Love Maths
 
 ## Gitpod Reminders
 
